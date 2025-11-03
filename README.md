@@ -5,6 +5,11 @@ It showcases the most popular and delicious **traditional German dishes**, inspi
 
 ---
 
+## 🌍 Live Demo
+👉 [Click here to view the website](https://chadalarabi69-ai.github.io/Berlin-s-Best-Traditional-Foods/)
+
+---
+
 ## 🌟 Features
 - Modern and elegant **dark theme** with gold accents  
 - **Responsive design** — works perfectly on mobile and desktop  
@@ -34,12 +39,7 @@ It showcases the most popular and delicious **traditional German dishes**, inspi
 ## 💻 How to Use
 1. Download or clone this repository:
    ```bash
-   git clone https://github.com/yourusername/berlin-eats.git
-Open the project folder.
-
-Open index.html in your browser.
-
-Enjoy exploring Berlin’s most famous dishes!
+   git clone https://github.com/chadalarabi69-ai/Berlin-s-Best-Traditional-Foods.git
 
 
 
